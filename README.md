@@ -1,1 +1,1 @@
-# Duplicate-number-in-array
+Arrays
